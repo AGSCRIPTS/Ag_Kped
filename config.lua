@@ -1,6 +1,14 @@
 Config = {}
 
-Config.MenuTitle = 'AG Autorevive'
+-- Head Admins
+Config.PedDeadPool = ''
+Config.PedBlackPanther = ''
+Config.PedIronMan = ''  -- Head Admin Side Peds spawn name
+Config.PedThor = ''
+Config.PedSpiderman = ''
 
--- Locations
-Config.DefaultLocation = vector3(-1335.57, -357.19, 36.73)
+-- Staff Peds
+Config.PedStaff = '' -- Staff side ped spawn name
+
+-- Admin Job ( Access Job )
+Config.AccessJob = 'police' -- job name
